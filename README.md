@@ -12,6 +12,7 @@ using SQL part :
          - Temp Table
          - Windows Function 
          - Aggregation Function
+         
 --------------------------------------------------------------------------------------------------------------------
 StoreProcedures and SQL Script : atliq_hardware_script.SQL
 
