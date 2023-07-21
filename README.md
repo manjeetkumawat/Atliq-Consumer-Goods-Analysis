@@ -5,12 +5,13 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 RawData file provided by codebasics is for MySQL, So first, Convert data  MySQL server to MS-SQL using SSMA( SQL Server Migration Assistant) tool.
 
 After that, I begin work ad-hock-requests one by one. Then, for #visualization I created Store Procedures for Each request in SQL Server, import those SPs into #PowerBI and create dashboard for each request.
+
 using SQL part : 
-        CTE
-        SP
-        temp table
-        windows function 
-        aggregation function
+         - CTE
+         - SP
+         - Temp Table
+         - Windows Function 
+         - Aggregation Function
 --------------------------------------------------------------------------------------------------------------------
 StoreProcedures and SQL Script : atliq_hardware_script.SQL
 
