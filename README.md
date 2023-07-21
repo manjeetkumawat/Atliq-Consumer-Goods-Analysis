@@ -11,7 +11,14 @@ using SQL part :
         temp table
         windows function 
         aggregation function
+--------------------------------------------------------------------------------------------------------------------
+StoreProcedures and SQL Script : atliq_hardware_script.SQL
 
+PowerBI File : Hardware-salesdashboard.pbix
+
+DataSource : https://codebasics.io/challenge/codebasics-resume-project-challenge 
+
+---------------------------------------------------------------------------------------------------------------------
 
 SCREENSHOT 1 -
 ![1](https://github.com/manjeetkumawat/Atliq-Consumer-Goods-Analysis/assets/131505771/e2c167ef-7e37-49f5-a434-9c577c8b5a0c)
